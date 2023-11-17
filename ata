@@ -1,0 +1,29 @@
+INDEX
+<!DOCTYPEhtml>
+<html-lang="pt-br">
+</html-lang>
+
+</head>
+
+<body>
+
+    <h1 id=""title"> Vasco da gama</h1>
+<p id="texto"> Estudo na escola Polivalente 
+    Tenho Formação em photoshop, desde criança ja começei a mexer com computação e jogos eletronicos
+    Nasci no Paraná e penso sair quando completar 18 anos.  </p>
+    <p class="texto"> Gosto de jogos de tiros e Toda a franquia de Call of duty principalmente o zombie primeiro jogo que eu joguei
+        Sou vascaino e sou fan do Neuer e gosto de ver os jogos deles</p>
+
+        </body> 
+        </footer>
+
+        <img src="----.jpg" alt="titulo - em">
+
+    .texto {
+        color: blue:
+        text-align: <center>;
+            <font>-size: 20px
+    }
+            </font>
+        </center>
+    }
